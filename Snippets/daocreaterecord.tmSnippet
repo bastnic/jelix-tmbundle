@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$dao = jDao::get("${1}");
+\$new${2} = jDao::createRecord("${1}");
+\$new${2}-&gt;${3} = ${4};
+\$new${2}-&gt;${5} = ${6};
+\$new${2}-&gt;${7} = ${8};
+\$new${2}-&gt;${9} = ${10};
+\$dao-&gt;insert(\$new${2});
+</string>
+	<key>name</key>
+	<string>daocreaterecord</string>
+	<key>tabTrigger</key>
+	<string>dao</string>
+	<key>uuid</key>
+	<string>B024EEF4-6919-4053-81B1-EC7867A0EFA0</string>
+</dict>
+</plist>

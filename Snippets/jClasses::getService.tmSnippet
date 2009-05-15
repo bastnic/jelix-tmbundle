@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1}Service = jClasses::getService("${2}~${1}");
+${3}</string>
+	<key>name</key>
+	<string>jClasses::getService</string>
+	<key>tabTrigger</key>
+	<string>srv</string>
+	<key>uuid</key>
+	<string>761DB886-CF32-4020-929B-D9A71217F914</string>
+</dict>
+</plist>

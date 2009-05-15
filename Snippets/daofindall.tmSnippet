@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1} = jDao::get("${2}~${3}")-&gt;findAll();
+foreach (\$${1} as \$${4}) {
+	${5}
+}</string>
+	<key>name</key>
+	<string>daofindall</string>
+	<key>tabTrigger</key>
+	<string>dao</string>
+	<key>uuid</key>
+	<string>1B4CD7FE-7E88-416E-BC0F-A315A8D0E83F</string>
+</dict>
+</plist>

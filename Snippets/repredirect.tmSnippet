@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$rep = \$this-&gt;getResponse("redirect");
+
+${4}
+\$rep-&gt;params['${3}'] = \$this-&gt;param('${3}');
+\$rep-&gt;action = \$this-&gt;_getAction('${2}');
+return \$rep;</string>
+	<key>name</key>
+	<string>repredirect</string>
+	<key>tabTrigger</key>
+	<string>rep</string>
+	<key>uuid</key>
+	<string>1BF0CE68-F5EE-45AB-BC72-8D8EC5032098</string>
+</dict>
+</plist>

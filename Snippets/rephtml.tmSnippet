@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$rep = \$this-&gt;getResponse("html");
+
+${3}
+
+\$tpl = new jTpl();
+\$rep-&gt;body-&gt;assign("${1}", \$tpl-&gt;fetch("${2}"));
+return \$rep;</string>
+	<key>name</key>
+	<string>rephtml</string>
+	<key>tabTrigger</key>
+	<string>rep</string>
+	<key>uuid</key>
+	<string>F3C5AB4A-22B4-4AA7-8BB5-AFCB0727E15D</string>
+</dict>
+</plist>

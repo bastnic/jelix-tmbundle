@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Jelix</string>
+	<key>ordering</key>
+	<array>
+		<string>7AE097D2-CF1D-4ECC-99BD-26E84D3373F1</string>
+		<string>B63EF204-41D5-47DD-908B-CFFA47B83AF8</string>
+		<string>34BC824A-9CDB-434B-8361-D762DED0259C</string>
+		<string>ABDEB08B-AB7D-4AFC-BE2D-CF32388D0D09</string>
+		<string>BD8C3612-CC38-4BC0-8AE1-0F487E773076</string>
+		<string>1EF2E5B3-8903-4186-A8DA-C6A620205344</string>
+		<string>623BD28C-B237-4436-B5D1-343420A607B3</string>
+		<string>A1105A64-876D-41A9-93FF-4D63C55151B3</string>
+		<string>469A3B0E-F98A-4E26-BA0F-E75E3AF2FA84</string>
+		<string>F3C5AB4A-22B4-4AA7-8BB5-AFCB0727E15D</string>
+		<string>1BF0CE68-F5EE-45AB-BC72-8D8EC5032098</string>
+		<string>A1ACE6B3-C0B8-4AC1-A944-55354BD630D7</string>
+		<string>B024EEF4-6919-4053-81B1-EC7867A0EFA0</string>
+		<string>1B4CD7FE-7E88-416E-BC0F-A315A8D0E83F</string>
+		<string>8A7B4127-AC5E-476D-B48B-5D81F206EFB4</string>
+		<string>44DAC572-C386-493C-AE4A-DFBEB3C8E605</string>
+		<string>66BAD749-5F62-4929-9920-935E589CB837</string>
+		<string>FE809635-4701-4BDB-94D0-103531729512</string>
+		<string>3D605458-1B22-4B6C-A411-4BE94431C954</string>
+	</array>
+	<key>uuid</key>
+	<string>1F29F857-393F-4905-ABD7-3F77E2814889</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$cond = jDao::createConditions();
+\$cond-&gt;addCondition('${1}', '${2}', '${3}');
+${4}</string>
+	<key>name</key>
+	<string>jDao::createConditions</string>
+	<key>tabTrigger</key>
+	<string>cond</string>
+	<key>uuid</key>
+	<string>ABDEB08B-AB7D-4AFC-BE2D-CF32388D0D09</string>
+</dict>
+</plist>

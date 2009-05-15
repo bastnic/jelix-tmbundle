@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;events xmlns="http://jelix.org/ns/events/1.0"&gt;
+   &lt;listener name="${1}"&gt;
+       &lt;event name="${2}" /&gt;
+       
+   &lt;/listener&gt;
+&lt;/events&gt;</string>
+	<key>name</key>
+	<string>eventxml</string>
+	<key>tabTrigger</key>
+	<string>event</string>
+	<key>uuid</key>
+	<string>921D9908-F8F8-4053-943F-56841D5C890C</string>
+</dict>
+</plist>

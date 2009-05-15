@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$tpl-&gt;assign("${1}", ${2});
+${3}</string>
+	<key>name</key>
+	<string>$tpl-&gt;assign</string>
+	<key>tabTrigger</key>
+	<string>assign</string>
+	<key>uuid</key>
+	<string>44DAC572-C386-493C-AE4A-DFBEB3C8E605</string>
+</dict>
+</plist>

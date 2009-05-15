@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?php
+
+
+class ${1}Listener extends jEventListener {
+    
+    function on${2} (\$event) {
+        ${3}
+    }
+   
+   
+   
+}</string>
+	<key>name</key>
+	<string>eventphp</string>
+	<key>tabTrigger</key>
+	<string>event</string>
+	<key>uuid</key>
+	<string>0F741839-D3BB-451E-B2C2-E0BF126BB888</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>global $gJCoord;
+include_once $gJCoord-&gt;getModulePath('${1}').'${2}';
+${3}</string>
+	<key>name</key>
+	<string>$gJCoord</string>
+	<key>uuid</key>
+	<string>A1105A64-876D-41A9-93FF-4D63C55151B3</string>
+</dict>
+</plist>

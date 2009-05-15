@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$rep = \$this-&gt;getResponse("text");
+${1}
+\$rep-&gt;content = "${2}";
+return \$rep;</string>
+	<key>name</key>
+	<string>reptext</string>
+	<key>tabTrigger</key>
+	<string>rep</string>
+	<key>uuid</key>
+	<string>469A3B0E-F98A-4E26-BA0F-E75E3AF2FA84</string>
+</dict>
+</plist>

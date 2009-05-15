@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$cond-&gt;addCondition('${1}', '${2}', '${3}');
+${4}</string>
+	<key>name</key>
+	<string>jDao::addCondition</string>
+	<key>tabTrigger</key>
+	<string>cond</string>
+	<key>uuid</key>
+	<string>BD8C3612-CC38-4BC0-8AE1-0F487E773076</string>
+</dict>
+</plist>
